@@ -1,0 +1,7 @@
+pip install numpy==1.8.2
+pip install pyyaml
+sudo apt-get build-dep matplotlib
+pip install matplotlib
+sudo apt-get install ffmpeg
+sudo ln -s /usr/bin/ffmpeg /usr/local/bin/en-ffmpeg
+

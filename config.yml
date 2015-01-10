@@ -1,0 +1,4 @@
+audio_files_dir: media/audio_files
+intermediate_files_dir: media/intermediate_files
+pickled_objects_dir: media/pickle_jar
+video_files_dir: media/video_files
